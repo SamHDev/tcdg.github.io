@@ -1,6 +1,7 @@
 @charset "UTF-8";
 :root {
-  font-family: "Roboto", sans-serif; }
+  font-family: "Roboto", sans-serif;
+  -webkit-tap-highlight-color: transparent; }
 
 .md-card {
   width: 50%;
