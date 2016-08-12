@@ -9,6 +9,7 @@ $typefaceSecondary: 'Roboto Mono', monospace;
 
 :root {
     font-family: $typefacePrimary;
+    -webkit-tap-highlight-color: transparent;
 }
 .md-card {
     width: 50%;
