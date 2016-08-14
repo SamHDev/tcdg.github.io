@@ -1,13 +1,11 @@
 ﻿@mixin border-radius($radius) {
   -moz-border-radius: $radius;
   -webkit-border-radius: $radius;
-  -ms-border-radius: $radius;
   border-radius: $radius;
 }
 @mixin box-shadow($property...) {
   -moz-box-shadow: $property;
   -webkit-box-shadow: $property;
-  -ms-box-shadow: $property;
   box-shadow: $property;
 }
 @mixin transition($transition...) {

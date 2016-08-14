@@ -91,10 +91,6 @@ $typefaceSecondary: 'Roboto Mono', monospace;
     border: none;
     color: inherit;
     outline: none;
-    
-    .md-toolbar__icons-menu {
-        margin: 8px;
-    }
 
     .tooltip {
         font-size: 10px;
@@ -133,6 +129,9 @@ $typefaceSecondary: 'Roboto Mono', monospace;
         transform: none;
         margin-top: 34px;
     }
+}
+.md-toolbar__icons-menu {
+    margin: 8px;
 }
 .md-side-nav {
     position: fixed;
