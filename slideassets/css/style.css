@@ -47,7 +47,7 @@ hr.small { border: solid #DE6262; border-width: 1px 0 0; clear: both; height: 0;
 #mainslider .item { color: #fff; margin: 0; padding: 0; position: relative; text-align: center; }
 #mainslider .item .slidecaption { left: 1%; position: absolute; right: 1%; text-align: center; top: 23%; }
 #mainslider .item .slidecaption h2 { color: #33adff; font-size: 3.5em; text-shadow: -1px 1px 0 #2d2d2f; }
-#mainslider .item .slidecaption h4 { color: #fff; font-size: 2em; font-weight: 300; margin-top: 25px; text-shadow: -1px 1px 0 #2d2d2f; }
+#mainslider .item .slidecaption h4 { color: #000000; font-size: 2em; font-weight: 300; margin-top: 25px; text-shadow: -1px 1px 0 #2d2d2f; padding-right: 12%; padding-left: 12%;}
 #mainslider .item .slidecaption .btn-slide { background: #DE6262;  border-radius:0; color: #fff; color: #fff; font-size: 19px; font-weight:400; margin: 25px auto 10px auto; padding: 7px 20px; }
 #mainslider .item .slidecaption .btn-slide:hover { background: #C65858; }
 #mainslider-nav { border-bottom: 1px solid #ccc; border-left: 1px solid #ccc; }
